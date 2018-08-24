@@ -36,4 +36,3 @@ foreach ($files as $val) {
 }
 
 echo $lines,"\n";
-
